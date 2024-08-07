@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    background-color: #081b31;
+    color:#fff;
+    height: 5rem;
+    line-height: 5rem;
+}
+.container{
+   text-align: center; 
+   
+}
+
+#count{
+    font-size: 5rem;
+    margin-top: 4rem;
+}
+
+.button{
+    height:50px;
+    width: 50px;
+    background-color: aqua;
+    border:1px solid gray;
+    font-size: 2rem;
+    border-radius: 0.2rem;
+}
+.change{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+#reset{
+    height:30px;
+    width: 100px;
+    background-color: aqua;
+    border:1px solid gray;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 2rem;
+}
