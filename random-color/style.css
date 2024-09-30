@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+button{
+    margin-top: 10vh;
+    background-color: brown;
+    color: bisque;
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 10px;
+    border:none;
+}
+
+.color-box{
+    border:1px solid black;
+    height: 200px;
+    width: 90vh;
+    margin: 50px auto;
+ 
+
+}
